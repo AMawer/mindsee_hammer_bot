@@ -1,0 +1,299 @@
+[0407/181359:INFO:chromedriver_server.cc(76)] Handling request: /session {"desiredCapabilities":{"browserName":"chrome","version":"","platform":"ANY","javascriptEnabled":true,"cssSelectorsEnabled":true,"takesScreenshot":false,"nativeEvents":false,"rotatable":false,"chromeOptions":{"detach":true},"chrome.detach":true}}
+[0407/181359:INFO:chrome_desktop_impl.cc(49)] Using chrome from /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+[0407/181359:INFO:chromedriver_server.cc(81)] Done handling request: 303 
+[0407/181359:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55 
+[0407/181359:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"acceptSslCerts":true,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"browserName":"chrome","cssSelectorsEnabled":true,"databaseEnabled":true,"driverVersion":"0.6","handlesAlerts":true,"javascriptEnabled":true,"locationContextEnabled":true,"nativeEvents":true,"platform":"Mac OS X","rotatable":false,"takesScreenshot":true,"version":"27.0.1453.15","webStorageEnabled":true}}
+[0407/181359:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/url {"url":"http://localhost:3000"}
+[0407/181359:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181359:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/url 
+[0407/181359:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"http://localhost:3000/"}
+[0407/181408:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181408:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181408:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' up ')]"}
+[0407/181408:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"1"}}
+[0407/181408:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/name 
+[0407/181408:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181408:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/enabled 
+[0407/181408:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181408:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/click {}
+[0407/181408:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181411:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181411:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181411:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' stop ')]"}
+[0407/181411:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"2"}}
+[0407/181411:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/name 
+[0407/181411:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181411:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/enabled 
+[0407/181411:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181411:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/click {}
+[0407/181411:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181414:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181414:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181414:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' up ')]"}
+[0407/181414:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"1"}}
+[0407/181414:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/name 
+[0407/181414:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181414:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/enabled 
+[0407/181414:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181414:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/click {}
+[0407/181414:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181417:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181417:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181417:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' stop ')]"}
+[0407/181417:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"2"}}
+[0407/181417:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/name 
+[0407/181417:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181417:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/enabled 
+[0407/181417:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181417:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/click {}
+[0407/181417:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181421:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181421:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181421:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' up ')]"}
+[0407/181421:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"1"}}
+[0407/181421:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/name 
+[0407/181421:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181421:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/enabled 
+[0407/181421:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181421:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/click {}
+[0407/181421:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181423:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181423:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181423:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' stop ')]"}
+[0407/181423:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"2"}}
+[0407/181423:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/name 
+[0407/181423:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181423:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/enabled 
+[0407/181423:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181423:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/click {}
+[0407/181423:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181423:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181423:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181423:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' up ')]"}
+[0407/181423:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"1"}}
+[0407/181423:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/name 
+[0407/181423:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181423:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/enabled 
+[0407/181423:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181423:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/click {}
+[0407/181423:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181425:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181425:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181425:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' stop ')]"}
+[0407/181425:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"2"}}
+[0407/181425:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/name 
+[0407/181425:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181425:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/enabled 
+[0407/181425:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181425:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/click {}
+[0407/181425:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181427:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181427:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181427:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' up ')]"}
+[0407/181427:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"1"}}
+[0407/181427:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/name 
+[0407/181427:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181427:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/enabled 
+[0407/181427:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181427:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/click {}
+[0407/181427:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181429:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181429:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181429:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' stop ')]"}
+[0407/181429:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"2"}}
+[0407/181429:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/name 
+[0407/181429:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181429:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/enabled 
+[0407/181429:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181429:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/click {}
+[0407/181429:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181429:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181429:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181429:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' up ')]"}
+[0407/181429:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"1"}}
+[0407/181429:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/name 
+[0407/181429:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181429:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/enabled 
+[0407/181429:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181429:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/click {}
+[0407/181429:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181429:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181429:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181429:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' stop ')]"}
+[0407/181429:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"2"}}
+[0407/181429:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/name 
+[0407/181429:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181429:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/enabled 
+[0407/181429:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181429:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/click {}
+[0407/181429:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181433:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181433:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181433:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' up ')]"}
+[0407/181433:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"1"}}
+[0407/181433:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/name 
+[0407/181433:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181433:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/enabled 
+[0407/181433:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181433:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/click {}
+[0407/181433:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181435:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181435:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181435:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' stop ')]"}
+[0407/181435:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"2"}}
+[0407/181435:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/name 
+[0407/181435:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181435:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/enabled 
+[0407/181435:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181435:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/click {}
+[0407/181435:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181435:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181435:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181435:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' up ')]"}
+[0407/181435:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"1"}}
+[0407/181435:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/name 
+[0407/181435:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181435:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/enabled 
+[0407/181435:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181435:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/click {}
+[0407/181435:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181435:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181435:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181435:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' stop ')]"}
+[0407/181435:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"2"}}
+[0407/181436:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/name 
+[0407/181436:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181436:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/enabled 
+[0407/181436:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181436:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/click {}
+[0407/181436:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181436:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181436:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181436:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' up ')]"}
+[0407/181436:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"1"}}
+[0407/181436:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/name 
+[0407/181436:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181436:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/enabled 
+[0407/181436:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181436:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/click {}
+[0407/181436:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181436:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181436:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181436:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' stop ')]"}
+[0407/181436:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"2"}}
+[0407/181436:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/name 
+[0407/181436:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181436:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/enabled 
+[0407/181436:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181436:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/click {}
+[0407/181436:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181437:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181437:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181437:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' up ')]"}
+[0407/181437:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"1"}}
+[0407/181437:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/name 
+[0407/181437:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181437:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/enabled 
+[0407/181437:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181437:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/click {}
+[0407/181437:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181437:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181437:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181437:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' stop ')]"}
+[0407/181437:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"2"}}
+[0407/181437:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/name 
+[0407/181437:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181437:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/enabled 
+[0407/181437:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181437:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/click {}
+[0407/181437:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181439:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181439:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181439:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' up ')]"}
+[0407/181439:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"1"}}
+[0407/181439:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/name 
+[0407/181439:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181439:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/enabled 
+[0407/181439:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181439:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/click {}
+[0407/181439:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181439:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181439:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181439:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' stop ')]"}
+[0407/181439:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"2"}}
+[0407/181439:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/name 
+[0407/181439:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181439:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/enabled 
+[0407/181439:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181439:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/click {}
+[0407/181439:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181440:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181440:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181440:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' up ')]"}
+[0407/181440:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"1"}}
+[0407/181440:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/name 
+[0407/181440:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181440:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/enabled 
+[0407/181440:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181440:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/click {}
+[0407/181440:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181440:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181440:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181440:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' stop ')]"}
+[0407/181440:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"2"}}
+[0407/181440:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/name 
+[0407/181440:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181440:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/enabled 
+[0407/181440:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181440:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/click {}
+[0407/181440:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181444:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181444:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181444:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' up ')]"}
+[0407/181444:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"1"}}
+[0407/181444:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/name 
+[0407/181444:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181444:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/enabled 
+[0407/181444:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181444:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/click {}
+[0407/181444:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181451:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181451:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181451:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' stop ')]"}
+[0407/181451:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"2"}}
+[0407/181451:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/name 
+[0407/181451:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181451:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/enabled 
+[0407/181451:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181451:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/click {}
+[0407/181451:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181451:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181451:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181451:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' up ')]"}
+[0407/181451:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"1"}}
+[0407/181451:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/name 
+[0407/181451:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181451:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/enabled 
+[0407/181451:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181451:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/click {}
+[0407/181451:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181454:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181454:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181454:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' stop ')]"}
+[0407/181454:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"2"}}
+[0407/181454:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/name 
+[0407/181454:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181454:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/enabled 
+[0407/181454:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181454:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/2/click {}
+[0407/181454:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181502:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/frame {"id":null}
+[0407/181502:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
+[0407/181502:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element {"using":"xpath","value":".//div[contains(concat(' ', @class, ' '), ' up ')]"}
+[0407/181502:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":{"ELEMENT":"1"}}
+[0407/181502:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/name 
+[0407/181502:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":"div"}
+[0407/181502:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/enabled 
+[0407/181502:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":true}
+[0407/181502:INFO:chromedriver_server.cc(76)] Handling request: /session/4f8aca2cd5ea2ab88410f9df9fe44c55/element/1/click {}
+[0407/181502:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"4f8aca2cd5ea2ab88410f9df9fe44c55","status":0,"value":null}
